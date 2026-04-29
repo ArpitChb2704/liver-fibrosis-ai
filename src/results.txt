@@ -1,0 +1,18 @@
+📊 Model Performance: On validations set
+Accuracy : 0.8163
+Precision: 0.5625
+Recall   : 0.5806
+F1 Score : 0.5714
+ROC-AUC  : 0.8529
+FIB-4 ROC-AUC: 0.8493
+
+Confusion Matrix:
+[[102  14]
+ [ 13  18]]
+Best model saved!
+Best Model: LightGBM with AUC: 0.8994
+
+📊 Model Performance: On validations set
+Accuracy : 0.8994
+[('Logistic Regression', np.float64(0.8893461362597165)), ('Random Forest', np.float64(0.9302697759487882)), 
+('XGBoost', np.float64(0.8952903520804756)), ('LightGBM', np.float64(0.8994055784179241))]
